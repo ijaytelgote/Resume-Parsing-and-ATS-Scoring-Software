@@ -12,34 +12,8 @@ Simplify your hiring process with our Resume Parsing and ATS Scoring Software. T
 - **Multiple Formats**: Handles various resume formats with ease.
 - **User-Friendly**: Simple and efficient to use.
 
-## Installation
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/resume-parsing-ats-scoring.git
-    cd resume-parsing-ats-scoring
-    ```
-
-2. **Create a virtual environment and activate it**:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
-
-3. **Install the required dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-1. **Run the application**:
-    ```bash
-    python main.py
-    ```
-
-2. **Upload resumes** to see the parsed results, ATS scores, and job profile recommendations.
 
 ## Contact
-If you have any questions or suggestions, please feel free to reach out to us at ijaytelgote@google.com.
+If you want a full code directory, please feel free to reach out at ijaytelgote@google.com or find me on LinkedIn.
 
