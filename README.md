@@ -15,5 +15,5 @@ Simplify your hiring process with our Resume Parsing and ATS Scoring Software. T
 
 
 ## Contact
-If you want a full code directory, please feel free to reach out at ijaytelgote@google.com or find me on LinkedIn.
+If you want a full code directory, please feel free to reach out at ijaytelgote@gmail.com or find me on LinkedIn.
 
